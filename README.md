@@ -34,8 +34,8 @@ For login
 curl --location 'http://localhost:3002/api/login' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-  "email": "divyanigam2278@gmail.com",
-  "password": "dibbu@123"
+  "email": "divyanigam227@gmail.com",
+  "password": "divya@123"
 }
 '
 
